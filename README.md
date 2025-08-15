@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Matúš Dikoš
 
-<!--
-**mattdikos/mattdikos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student at the Faculty of Management Science and Informatics, University of Žilina  
+💻 Back End Developer at [rovnanik.sk](https://rovnanik.sk)  
+🌱 Currently exploring **Machine Learning** and **Data Analytics**  
+⚡ Tech enthusiast who loves building cool stuff, solving real problems, and making things work smarter  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 Certifications
+- Cambridge English: First (FCE) – CEFR Level C1
+
+---
+
+## 🤝 Volunteering
+- Volunteer at **Slovenský skauting** (2015 – present)
+
+---
+
+## 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/mat%C3%BA%C5%A1-diko%C5%A1-b40096353/)
+- Email: *(add your email here if you want)*
+
+---
+
+⭐ *Always learning, always building.*
