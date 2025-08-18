@@ -6,5 +6,3 @@
 
 ###  How to reach me
 - Email: *mattdikos@gmail.com*
-
-*Always learning, always building.*
